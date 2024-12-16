@@ -5,8 +5,6 @@
   <img src="https://img.shields.io/badge/M.O.N.A.-brown?style=plastic" alt="drawing" width="200"/>
 </p>
 
-______________________
-
 ###
 
 <p align="center">
